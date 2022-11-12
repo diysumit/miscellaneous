@@ -1,0 +1,1 @@
+select * from ig_clone.users order by created_at limit 5;
